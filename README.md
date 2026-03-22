@@ -31,6 +31,7 @@ It's that simple. `points` represents land mass, `addMarkers` projects your mark
 |---|---|---|---|
 | `width` | `number` | **required** | Width of the SVG viewBox. |
 | `height` | `number` | **required** | Height of the SVG viewBox. |
+| `grid` | `"diagonal" \| "vertical"` | `"vertical"` | `vertical` | The arrangement of the points | 
 | `mapSamples` | `number` | `6000` | Grid cells sampled. Higher = denser dots. |
 | `radius` | `number` | `0.3` | Base dot radius in viewBox units. Controls edge margin (`radius * 1.25`). |
 | `countries` | `CountryCode[]` | `undefined` | ISO 3166-1 alpha-3 codes (e.g. `["USA", "CAN"]`). Auto-fits the region to the bounding box. |

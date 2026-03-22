@@ -1,5 +1,11 @@
 # piri
 
+## 1.3.1
+
+### Patch Changes
+
+- Fix release
+
 ## 1.3.0
 
 ### Minor Changes
