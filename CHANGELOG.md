@@ -1,5 +1,11 @@
 # piri
 
+## 1.3.0
+
+### Minor Changes
+
+- Adds support for diagonal maps
+
 ## 1.2.0
 
 ### Minor Changes
